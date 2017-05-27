@@ -1,0 +1,11 @@
+v 1.0
+- [] Move External Service Dependencies to config and Remove old config Values
+- [] Refactor and remove unwanted code
+
+v 2.0
+- [] Add sub-folder like view
+- [] Add tags
+- [] Add fb Share links
+- [] Comment section [probably]
+- [] PR - for errors in notes
+- [] Deal with depricated code
